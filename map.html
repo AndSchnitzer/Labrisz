@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>Example Embedding the Labrisz Map</title>
+	<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <style>
+      #labrisz_map {
+        width: 50%;
+        height: 400px;
+        background-color: grey;
+      }
+    </style>
+
+  </head>
+  <body>
+    <h3>Example Embedding the Labrisz Map</h3>
+    <div id="labrisz_map"></div>
+
+
+
+    <script type="text/javascript" src="labrisz_data.js"></script>
+	<script type="text/javascript" src="labrisz_map.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWMWwVRUyu6VdgMJbF9JS6zaz1e57YvSU&callback=labrisz_mapReady"></script>
+  </body>
+</html>
