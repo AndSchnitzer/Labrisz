@@ -118,5 +118,17 @@ var LABRISZ_DATA=[
         "photo": "lesbian, gay, mixed.in the heart of Budapest hip town",
         "photofile": "",
         "year": ""
+    },
+    {
+        "address": "Semmelweis utca 21 1051",
+        "description": "Nagy Mez\u00f3 utca",
+        "location": {
+            "lat": 47.4954933,
+            "lng": 19.0552723
+        },
+        "name": "Eklektika",
+        "photo": "1st: exterior / on fb page of eklektika",
+        "photofile": "",
+        "year": "late 1990s"
     }
 ];
