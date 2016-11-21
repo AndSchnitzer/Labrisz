@@ -130,5 +130,17 @@ var LABRISZ_DATA=[
         "photo": "1st: exterior / on fb page of eklektika",
         "photofile": "",
         "year": "late 1990s"
+    },
+    {
+        "address": "Budapest VIII R\u00E1k\u00F3czi utca 51",
+        "description": "Second Angel Bar location",
+        "location": {
+            "lat": 47.49762,
+            "lng": 19.0708663
+        },
+        "name": "Angel Bar (2)",
+        "photo": "newspaper ad",
+        "photofile": "",
+        "year": "1994"
     }
 ];
