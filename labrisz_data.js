@@ -142,5 +142,89 @@ var LABRISZ_DATA=[
         "photo": "newspaper ad",
         "photofile": "",
         "year": "1994"
-    }
+    },
+{
+"address": "Budapest VII Szovets\u00E9g utca 33",
+"description": "Third Angel Bar location",
+"location": {
+"lat": 47.5015491,
+"lng": 19.0709257
+},
+"name": "Angel Bar (3)",
+"photo": "photo from November 23",
+"photofile": "",
+"year": "1995-1997"
+},
+{
+"address": "Budapest 1132 Visegr\u00E1di utca 10 ",
+"description": "Early H\u00E1tt\u00E9r Society location",
+"location": {
+"lat": 47.5124947,
+"lng": 19.0517776
+},
+"name": "H\u00E1tt\u00E9r Society",
+"photo": "",
+"photofile": "",
+"year": "1995-20??"
+},
+{
+"address": "Budapest 1554 Csan\u00E1dy utca 4/b",
+"description": "Current H\u00E1tt\u00E9r Society location",
+"location": {
+"lat": 47.5159632,
+"lng": 19.0560498
+},
+"name": "H\u00E1tt\u00E9r Society",
+"photo": "",
+"photofile": "",
+"year": "20??-present"
+    },
+{
+"address": "Budapest 1072, Klauz\u00E1l t\u00E9r 5",
+"description": "bar and party location",
+"location": {
+"lat": 47.498996,
+"lng": 19.0617946
+},
+"name": "Pepita Of\u00E9lia",
+"photo": "exterior shot",
+"photofile": "",
+"year": ""
+    },
+{
+"address": "Budapest 1085, M\u00E1ria utca 54",
+"description": "broadcast: Z\u00E1rtkoru L\u00E1nyok (Exclusive girls)",
+"location": {
+"lat": 47.487185,
+"lng": 19.066306
+},
+"name": "Tilos Radio FM 90.3"
+"photo": "",
+"photofile": "",
+"year": "2009-present"
+       },
+{
+"address": "Budapest 1066, Zichy Jeno utca 29",
+"description": "1st Labrisz evening location",
+"location": {
+"lat": 47.5047571,
+"lng": 19.0558435
+},
+"name": "Ovegyet Foundation"
+"photo": "photo from Nov 23rd 2016",
+"photofile": "",
+"year": "1994"
+           },
+{
+"address": "Budapest V. Belgr\u00E1d rkp. 23",
+"description": "club-mixed",
+"location": {
+"lat": 47.4900714,
+"lng": 19.0506359
+},
+"name": "Capella Caff\u00E9"
+"photo": "photo from Nov 23rd 2016",
+"photofile": "",
+"year": "1990s to present"
+}
 ];
