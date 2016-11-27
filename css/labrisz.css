@@ -1,0 +1,13 @@
+#labrisz_map {
+width: 75%;
+height: 800px;
+float: left;
+background-color: grey;
+}
+
+#labrisz_content{
+float:left;
+width:25%;
+overflow:hidden;
+}
+
