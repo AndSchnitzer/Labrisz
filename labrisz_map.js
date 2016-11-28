@@ -1,4 +1,8 @@
 
+
+function createclosure(i) {
+    return function() { select_item(i); };
+}
 function addMarkers(map)
 {
 	/*var pink_icon={
@@ -14,14 +18,48 @@ function addMarkers(map)
 
 	for(var i=0;i<LABRISZ_DATA.length;i++)
 	{
-		data_row=LABRISZ_DATA[i];
+		var data_row=LABRISZ_DATA[i];
 		console.log(data_row);
-		marker=new google.maps.Marker({
+		var marker=new google.maps.Marker({
 			position:data_row["location"],
 			map:map,
 			icon:pink_icon
 		});
+		var p=i;
+		marker.addListener('click', createclosure(i));
+
 	}
+}
+
+function select_item(id)
+{
+	console.log(id);
+	var data_row=LABRISZ_DATA[id];
+	console.log(data_row);
+	$('#labrisz_content_title').html(data_row["name"]);
+	$('#labrisz_content_subheading').html(data_row["description"]);
+	var photos=data_row["photos"];
+	var ht='<div id="labrisz_content_image_carousel_r">';
+	for(var k=0;k<photos.length;k++)
+	{
+		var p=photos[k];
+		ht+='<div><img style="width: 100%" src="data_img/';
+		ht+=p["img"];
+		ht+='"/><p>';
+		ht+=p["text"];
+		ht+="</p></div>";
+	}
+	ht+="</div>";
+	$('#labrisz_content_image_carousel').empty();
+	$('#labrisz_content_image_carousel').html(ht);
+	reset_slider();
+}
+
+function reset_slider()
+{
+	$('#labrisz_content_image_carousel_r').slick(
+		{dots: true,arrows:true}
+	);
 }
 
 function labrisz_mapReady() 
@@ -34,3 +72,7 @@ function labrisz_mapReady()
 	addMarkers(map);
 }
 
+$(document).ready(function()
+{
+	
+});

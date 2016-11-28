@@ -3,21 +3,32 @@
   <head>
 	<title>Example Embedding the Labrisz Map</title>
 	<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+
     <link rel="stylesheet" type="text/css" href="css/labrisz.css">
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.css"/>
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick-theme.css"/>
     <!---http://kenwheeler.github.io/slick/http://kenwheeler.github.io/slick/--->
   </head>
   <body>
     <h3>Example Embedding the Labrisz Map</h3>
     <div id="labrisz_content">
-		<h1 id="labrisz_content_title">TITLE</h1>
-		<p>Some text some text some text</p>
+		<h1 id="labrisz_content_title">Labrisz Map</h1>
+		<p id="labrisz_content_subheading"></p>
+		<div id="labrisz_content_image_carousel">
+			<div id="labrisz_content_image_carousel_r">
+				<div><img style="width: 100%" src="data_img/orlando2000.jpg"/><p>Click on a location</p></div>
+			</div>
+		</div>
 	</div>
 	<div id="labrisz_map"></div>
 
 
-
+	<script	src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js"></script>
     <script type="text/javascript" src="labrisz_data.js"></script>
 	<script type="text/javascript" src="labrisz_map.js"></script>
+
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWMWwVRUyu6VdgMJbF9JS6zaz1e57YvSU&callback=labrisz_mapReady"></script>
+
   </body>
 </html>
