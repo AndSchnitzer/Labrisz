@@ -43,9 +43,14 @@ function select_item(id)
 	for(var k=0;k<photos.length;k++)
 	{
 		var p=photos[k];
-		ht+='<div><img style="width: 100%" src="data_img/';
-		ht+=p["img"];
-		ht+='"/><p>';
+		ht+='<div>'
+		if(p["img"] != "")
+		{
+			ht+='<img style="width: 100%" src="data_img/';
+			ht+=p["img"];
+			ht+='"/>';
+		}
+		ht+='<p>';
 		ht+=p["text"];
 		ht+="</p></div>";
 	}
