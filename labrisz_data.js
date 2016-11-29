@@ -1,7 +1,7 @@
 var LABRISZ_DATA=[
   {
     "address": "Budapest 1047, De\u00e1k Ferenc utca 17",
-    "description": "bar with lesbian nights",
+    "description": "A bar with lesbian nights from 1992",
     "location": {
       "lat": 47.5652334,
       "lng": 19.0879955
@@ -18,16 +18,16 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest XVI, M\u00e1t\u00e9 utca 55",
-    "description": "club",
+    "description": "Possible lesbian club",
     "location": {
       "lat": 47.513802,
       "lng": 19.1809513
     },
     "name": "Orlando",
-    "photo": "photo shows clipping of newspaper ad",
+    "photo": "The photo shows the clipping of a newspaper ad found at Hatter Society Archives",
     "photos": [
       {
-        "text": "This newspaper clipping shows an ad for a lesbian bar",
+        "text": "The photo shows the clipping of a newspaper ad found at Hatter Society Archives",
         "img": "orlando2000.jpg"
       }
     ],
@@ -35,7 +35,7 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest, Sz\u00edv u. 3-5",
-    "description": "bar\/club",
+    "description": "Bar\/club",
     "location": {
       "lat": 47.5076665,
       "lng": 19.069134
@@ -44,7 +44,7 @@ var LABRISZ_DATA=[
     "photo": "only interior photo",
     "photos": [
       {
-        "text": "This newspaper clipping shows the interior of Sexp\u00edr",
+        "text": "This newspaper clipping from 1993 shows the interior of Sexp\u00edr",
         "img": "sexpir1993interior.jpg"
       }
     ],
@@ -52,13 +52,13 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest VII 1074, Dohany utca 38",
-    "description": "restaurant",
+    "description": "1970s Restaurant monitored by secret police",
     "location": {
       "lat": 47.4965334,
       "lng": 19.0639768
     },
     "name": "Di\u00f3fa Restaurant",
-    "photo": "This menu cover is from 1974 and shows a collection of other LGBT spaces behind it. There are 2016 photos as well.",
+    "photo": "This menu cover is from 1974 and shows a collection of other LGBT spaces behind it. There are photos from 2016 as well.",
     "photos": [
       {
         "text": "This restaurant was monitored by secret police. The secret police do not share their records, so their photos remain unsearchable.",
@@ -89,7 +89,7 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest VIII 1088, Szentkir\u00e1lyi utca 8",
-    "description": "bar with women-only nights",
+    "description": "1991 bar with women-only nights",
     "location": {
       "lat": 47.493973,
       "lng": 19.0627571
@@ -106,7 +106,7 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest 1068, Kir\u00e1ly utca 56",
-    "description": "office",
+    "description": "Labrisz office location from 2006 to 2008",
     "location": {
       "lat": 47.5025783,
       "lng": 19.0615072
@@ -131,7 +131,7 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Heged\u0171s Gyula utca, 13. Ker\u00fcle",
-    "description": "theater",
+    "description": "1980s theater",
     "location": {
       "lat": 47.519328,
       "lng": 19.0549112
@@ -148,7 +148,7 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest VI, Izabella utca 85",
-    "description": "If Only Bar",
+    "description": "If Only Bar opened in 2005 by two women",
     "location": {
       "lat": 47.5106985,
       "lng": 19.0612149
@@ -169,7 +169,7 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest VIII, Vas utca 2",
-    "description": "One of the oldest \"gay\" restaurants",
+    "description": "One of the oldest \"gay\" restaurants that is still open",
     "location": {
       "lat": 47.4950799,
       "lng": 19.0639394
@@ -203,7 +203,7 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Semmelweis utca 21 1051",
-    "description": "Nagy Mez\u00f3 utca",
+    "description": "Nagy Mez\u00f3 utca A lesbian-friendly bar that gave place for the first regular lesbian parties from the late 1990s",
     "location": {
       "lat": 47.4954933,
       "lng": 19.0552723
@@ -228,7 +228,7 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest VIII R\u00e1k\u00f3czi utca 51",
-    "description": "Angel Bar location 3",
+    "description": "Angel Bar location 3 from 1993",
     "location": {
       "lat": 47.49762,
       "lng": 19.0708663
@@ -257,7 +257,7 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest VII Szovets\u00e9g utca 33",
-    "description": "Fourth Angel Bar location",
+    "description": "Fourth Angel Bar location from 1995 to 1997",
     "location": {
       "lat": 47.5015491,
       "lng": 19.0709257
@@ -278,7 +278,7 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest 1132 Visegr\u00e1di utca 10 ",
-    "description": "Early H\u00e1tt\u00e9r Society location",
+    "description": "Early H\u00e1tt\u00e9r Society location opened in 1995",
     "location": {
       "lat": 47.5124947,
       "lng": 19.0517776
@@ -312,7 +312,7 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest 1072, Klauz\u00e1l t\u00e9r 5",
-    "description": "bar and party location",
+    "description": "Bar and party location",
     "location": {
       "lat": 47.498996,
       "lng": 19.0617946
@@ -329,7 +329,7 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest 1085, M\u00e1ria utca 54",
-    "description": "An alternative non-profit community radio channel. Broadcast: Z\u00e1rtkoru L\u00e1nyok (Exclusive girls)",
+    "description": "An alternative non-profit community radio channel from 2009 to present. Broadcast: Z\u00e1rtkoru L\u00e1nyok (Exclusive girls)",
     "location": {
       "lat": 47.487185,
       "lng": 19.066306
@@ -346,7 +346,7 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest 1066, Zichy Jeno utca 29",
-    "description": "1st Labrisz evening location",
+    "description": "1st Labrisz evening location in 1994",
     "location": {
       "lat": 47.5047571,
       "lng": 19.0558435
@@ -371,7 +371,7 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest V. Belgr\u00e1d rkp. 23",
-    "description": "club-mixed",
+    "description": "A club with a mixed crowd from 1995 to present",
     "location": {
       "lat": 47.4900714,
       "lng": 19.0506359
