@@ -12,6 +12,10 @@ var LABRISZ_DATA=[
       {
         "text": "A bar with lesbian nights in the early 1990's.",
         "img": "whynot1992.jpg"
+      },
+      {
+        "text": "Google Maps image of current location",
+        "img": "whynotgoogle.jpg"
       }
     ],
     "year": "1992"
@@ -29,6 +33,10 @@ var LABRISZ_DATA=[
       {
         "text": "The photo shows the clipping of a newspaper ad found at Hatter Society Archives",
         "img": "orlando2000.jpg"
+        },
+      {
+        "text": "Google maps image of current address",
+        "img": "orlando_mate.jpg"
       }
     ],
     "year": "unknown"
@@ -284,11 +292,11 @@ var LABRISZ_DATA=[
       "lng": 19.0517776
     },
     "name": "H\u00e1tt\u00e9r Society",
-    "photo": "",
+    "photo": "Google Maps photo",
     "photos": [
       {
-        "text": "",
-        "img": ""
+        "text": "This image was pulled from Google Maps",
+        "img": "hatter_visegradi.jpg"
       }
     ],
     "year": "1995-20??"
