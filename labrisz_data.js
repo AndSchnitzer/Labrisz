@@ -1,4 +1,4 @@
-var LABRISZ_DATA=[
+mvar LABRISZ_DATA=[
   {
     "address": "Budapest 1047, De\u00e1k Ferenc utca 17",
     "description": "A bar with lesbian nights from 1992",
@@ -414,15 +414,35 @@ var LABRISZ_DATA=[
     "photos": [
       {
         "text": "",
-        "img": "capella_1.jpg"
+        "img": "egyetem_exterior_1.jpg"
       },
       {
         "text": "",
-        "img": "capella_2.jpg"
+        "img": "egyetem_exterior_2.jpg"
       },
       {
         "text": "",
-        "img": "capella_3.jpg"
+        "img": "egyetem_exterior_3.jpg"
+      },
+      {
+        "text": "",
+        "img": "egyetem_belso.jpg"
+      },
+      {
+        "text": "",
+        "img": "egyetem_menu_1.jpg"
+      },
+      {
+        "text": "",
+        "img": "egyetem_menu_2.jpg"
+      },
+      {
+        "text": "",
+        "img": "egyetem_menu_3.jpg"
+      },
+      {
+        "text": "",
+        "img": "egyetem_menu_4.jpg"
       }
     ],
     "year": "1970s and 80s"
