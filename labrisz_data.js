@@ -401,5 +401,29 @@ var LABRISZ_DATA=[
       }
     ],
     "year": "1995 to present"
-  }
+  },
+  {
+    "address": "1052 Ferencziek tere 1",
+    "description": "In the evenings in the 1970s and 80s this turned into a gay venue. 95 percent of the crowd here were men. Secret Police raids were conducted here to scare the gay community.",
+    "location": {
+      "lat": 47.4933192,
+      "lng": 19.0533043
+    },
+    "name": "Egyetem Pressz\u00F3",
+    "photo": "photos from Hatter",
+    "photos": [
+      {
+        "text": "",
+        "img": "capella_1.jpg"
+      },
+      {
+        "text": "",
+        "img": "capella_2.jpg"
+      },
+      {
+        "text": "",
+        "img": "capella_3.jpg"
+      }
+    ],
+    "year": "1970s and 80s"
 ];
