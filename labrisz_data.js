@@ -443,8 +443,8 @@ var LABRISZ_DATA=[
     "address": "1111 Zenta u. 3",
     "description": "Lesbian gatherings (and also a meeting place of the democratic opposition before 1990). 1111 Zenta u. 3",
     "location": {
-      "lat": 47.487185,
-      "lng": 19.066306
+      "lat": 47.4808451,
+      "lng": 19.0509591
     },
     "name": "Kis Rabl\u00F3 \u00C9tterem",
     "photo": "",
