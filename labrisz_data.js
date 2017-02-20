@@ -1,7 +1,7 @@
 var LABRISZ_DATA=[
   {
     "address": "Budapest 1047, De\u00e1k Ferenc utca 17",
-    "description": "A bar with lesbian nights from 1992",
+    "description": "A bar with lesbian nights. Budapest 1047, De\u00e1k Ferenc utca 17",
     "location": {
       "lat": 47.5652334,
       "lng": 19.0879955
@@ -10,11 +10,11 @@ var LABRISZ_DATA=[
     "photo": "newspaper ad",
     "photos": [
       {
-        "text": "A bar with lesbian nights in the early 1990's.",
+        "text": "Ad from 1992 (Image from H\u00e1tt\u00e9r Society Archives)",
         "img": "whynot1992.jpg"
       },
       {
-        "text": "Google Maps image of current location",
+        "text": "2016 satellite image (Image from Google Maps)",
         "img": "whynotgoogle.jpg"
       }
     ],
@@ -22,7 +22,7 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest XVI, M\u00e1t\u00e9 utca 55",
-    "description": "Possible lesbian club",
+    "description": "Lesbian club. Budapest XVI, M\u00e1t\u00e9 utca 55",
     "location": {
       "lat": 47.513802,
       "lng": 19.1809513
@@ -31,11 +31,11 @@ var LABRISZ_DATA=[
     "photo": "The photo shows the clipping of a newspaper ad found at Hatter Society Archives",
     "photos": [
       {
-        "text": "The photo shows the clipping of a newspaper ad found at Hatter Society Archives",
+        "text": "Newspaper ad from 2000 (Image from H\u00e1tt\u00e9r Society Archives)",
         "img": "orlando2000.jpg"
         },
       {
-        "text": "Google maps image of current address",
+        "text": "2016 satellite image (Image from Google Maps)",
         "img": "orlando_mate.jpg"
       }
     ],
@@ -43,54 +43,46 @@ var LABRISZ_DATA=[
   },
   {
     "address": "Budapest, Sz\u00edv u. 3-5",
-    "description": "Bar\/club",
+    "description": "Bar\/club at Budapest, Sz\u00edv u. 3-5",
     "location": {
       "lat": 47.5076665,
       "lng": 19.069134
     },
     "name": "Sexp\u00edr\u00a0",
-    "photo": "only interior photo",
+    "photo": "1993 newspaper clipping showing the interior",
     "photos": [
       {
-        "text": "This newspaper clipping from 1993 shows the interior of Sexp\u00edr",
+        "text": "1993 newspaper clipping showing the interior of Sexp\u00edr (Image from H\u00e1tt\u00e9r Society Archives)",
         "img": "sexpir1993interior.jpg"
       }
     ],
     "year": "1993"
   },
   {
-    "address": "Budapest VII 1074, Dohany utca 38",
-    "description": "1970s Restaurant monitored by secret police",
+    "address": "Budapest VII 1074, Doh\u00E1ny utca 38",
+    "description": "1970s Restaurant monitored by secret police. Budapest VII 1074, Doh\u00E1ny utca 38",
     "location": {
       "lat": 47.4965334,
       "lng": 19.0639768
     },
     "name": "Di\u00f3fa Restaurant",
-    "photo": "This menu cover is from 1974 and shows a collection of other LGBT spaces behind it. There are photos from 2016 as well.",
+    "photo": "This restaurant was monitored by secret police. The secret police do not share their records, so their photos remain unsearchable.",
     "photos": [
       {
-        "text": "This restaurant was monitored by secret police. The secret police do not share their records, so their photos remain unsearchable.",
+        "text": "Menu cover from 1974 showing a collection of other LGBT spaces behind it. (Image from H\u00e1tt\u00e9r Society Archives)",
         "img": "diofamenucover.jpg"
       },
       {
-        "text": "In 2016, another restaurant has replaced it.",
+        "text": "In 2016, another restaurant has replaced it. (Image from Kristina Cajkovicova)",
         "img": "diofa_restaurant_1.jpg"
       },
       {
-        "text": "The gay bar, Coxx is here now.",
+        "text": "The gay bar, Coxx is here in 2016. (Image from Kristina Cajkovicova)",
         "img": "diofa_restaurant_2.jpg"
       },
       {
-        "text": "Another view of the restaurant and gay bar.",
+        "text": "Another view of the restaurant and gay bar. (Image from Kristina Cajkovicova)",
         "img": "diofa_restaurant_3.jpg"
-      },
-      {
-        "text": "A view of the upper windows",
-        "img": "diofa_restaurant_4.jpg"
-      },
-      {
-        "text": "Three floors of upper windows",
-        "img": "diofa_restaurant_5.jpg"
       }
     ],
     "year": "1974"
