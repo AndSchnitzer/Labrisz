@@ -187,7 +187,7 @@ var LABRISZ_DATA=[
     "photos": [
       {
         "text": "photo from the website",
-        "img": "club 93 pizzeria.jpg"
+        "img": "club_93_pizzeria.jpg"
       }
     ],
     "year": ""
@@ -347,7 +347,7 @@ var LABRISZ_DATA=[
     "photos": [
       {
         "text": "photo from 2016 which does not appear to have a sign for the radio station",
-        "img": "tilos.jpg"
+        "img": "Tilos.jpg"
       }
     ],
     "year": "2009-present"
