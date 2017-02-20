@@ -1,4 +1,4 @@
-mvar LABRISZ_DATA=[
+var LABRISZ_DATA=[
   {
     "address": "Budapest 1047, De\u00e1k Ferenc utca 17",
     "description": "A bar with lesbian nights from 1992",
@@ -446,4 +446,5 @@ mvar LABRISZ_DATA=[
       }
     ],
     "year": "1970s and 80s"
+  }
 ];
