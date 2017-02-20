@@ -472,5 +472,21 @@ var LABRISZ_DATA=[
       }
     ],
     "year": ""
-  }
+  },
+  {
+    "address": "1062 Andr\u00E1ssy \u00FAt 112",
+    "description": "Alternative music venue and safe space from 1960 to 1998. Closed now. 1062 Andr\u00E1ssy \u00FAt 112",
+    "location": {
+      "lat": 47.4884957,
+      "lng": 19.0623231
+    },
+    "name": "Fiatal M\u0171v\u00E9szek Klubja",
+    "photo": "",
+    "photos": [
+      {
+        "text": "Exterior building photo. 2017. (Image from Google Maps)",
+        "img": "alternativemusicsafespace.jpg"
+      }
+    ],
+    "year": ""
 ];
