@@ -321,7 +321,7 @@ var LABRISZ_DATA=[
     "photo": "exterior shot",
     "photos": [
       {
-        "text": "This was a bar and party location. (Image from Eifert J\u00E1nos",
+        "text": "This was a bar and party location. (Image from Eifert J\u00E1nos)",
         "img": "2012.10.14-pepita-ofelia-bar-a-klauzal-teren.jpg"
       }
     ],
