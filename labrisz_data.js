@@ -489,4 +489,5 @@ var LABRISZ_DATA=[
       }
     ],
     "year": ""
+  }
 ];
