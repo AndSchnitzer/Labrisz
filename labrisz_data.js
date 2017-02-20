@@ -455,5 +455,22 @@ var LABRISZ_DATA=[
       }
     ],
     "year": ""
+  },
+  {
+    "address": "1085 \u00DCll\u0151i \u00FAt 16\/a",
+    "description": "Restaurant owned by a lesbian woman at 1085 \u00DCll\u0151i \u00FAt 16\/a",
+    "location": {
+      "lat": 47.4884957,
+      "lng": 19.0623231
+    },
+    "name": "B\u00E9csi Szelet \u00C9tterem",
+    "photo": "",
+    "photos": [
+      {
+        "text": "Exterior building photo. 2017. (Image from Google Maps)",
+        "img": "becsi.jpg"
+      }
+    ],
+    "year": ""
   }
 ];
