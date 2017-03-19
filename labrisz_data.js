@@ -540,5 +540,22 @@ var LABRISZ_DATA=[
       }
     ],
     "year": ""
+    },
+  {
+    "address": "1085 \u00DCll\u0151i \u00FAt	4",
+    "description": "A restaurant that held parties and activist meetings in 1991. 1085 \u00DCll\u0151i \u00FAt	4. (Image credit: Google Maps 2017)",
+    "location": {
+      "lat": 47.4892631,
+      "lng": 19.0606344
+    },
+    "name": "R\u00F3zsasz\u00EDn Csokornyakkend\u0151 (Pink Bow Tie)",
+    "photo": "",
+    "photos": [
+      {
+        "text": "",
+        "img": "pink bow tie.jpg"
+      }
+    ],
+    "year": ""
     }
 ]
