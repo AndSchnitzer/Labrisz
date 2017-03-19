@@ -509,7 +509,7 @@ var LABRISZ_DATA=[
     },
   {
     "address": "1073 Kert\u00E9sz u. 31",
-    "description": "Gay bar and the meeting place of HomEros Lambda from 1989 to 1992. 1073 Kert\u00E9sz u. 31",
+    "description": "Gay bar and the meeting place of HomEros Lambda from 1989 to 1992. 1073 Kert\u00E9sz u. 31 (Image credit: Google Maps 2017)",
     "location": {
       "lat": 47.5011089,
       "lng": 19.0642844
