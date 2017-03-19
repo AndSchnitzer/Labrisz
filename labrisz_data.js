@@ -519,7 +519,7 @@ var LABRISZ_DATA=[
     "photos": [
       {
         "text": "",
-        "img": ""
+        "img": "Lokal.jpg"
       }
     ],
     "year": ""
