@@ -489,5 +489,39 @@ var LABRISZ_DATA=[
       }
     ],
     "year": ""
-  }
+  },
+  {
+    "address": "1088 L\u0151rinc pap t\u00E9r 3",
+    "description": "Underground music club open in the 1990s. Closed now. 1088 L\u0151rinc pap t\u00E9r 3",
+    "location": {
+      "lat": 47.4900336,
+      "lng": 19.0662656
+    },
+    "name": "Egocentrum",
+    "photo": "",
+    "photos": [
+      {
+        "text": "",
+        "img": ""
+      }
+    ],
+    "year": ""
+    },
+  {
+    "address": "1073 Kert\u00E9sz u. 31",
+    "description": "Gay bar and the meeting place of HomEros Lambda from 1989 to 1992. 1073 Kert\u00E9sz u. 31",
+    "location": {
+      "lat": 47.5011089,
+      "lng": 19.0642844
+    },
+    "name": "Lok\u00E1l",
+    "photo": "",
+    "photos": [
+      {
+        "text": "",
+        "img": ""
+      }
+    ],
+    "year": ""
+    }
 ]
