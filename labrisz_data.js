@@ -536,7 +536,7 @@ var LABRISZ_DATA=[
     "photos": [
       {
         "text": "",
-        "img": ""
+        "img": "cafe vis major.jpg"
       }
     ],
     "year": ""
