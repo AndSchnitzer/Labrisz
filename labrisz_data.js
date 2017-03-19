@@ -523,5 +523,22 @@ var LABRISZ_DATA=[
       }
     ],
     "year": ""
+    },
+  {
+    "address": "1137 J\u00E1szai Mari t\u00E9r 4\/A",
+    "description": "Provided a place for the Gobbi Hilda Film Club and some lesbian parties from the mid 2000s until its closing in 2014. 1137 J\u00E1szai Mari t\u00E9r 4\/A (Image credit: Google Maps 2017)",
+    "location": {
+      "lat": 47.513598,
+      "lng": 19.0464053
+    },
+    "name": "Caf\u00E9 Vis Major",
+    "photo": "",
+    "photos": [
+      {
+        "text": "",
+        "img": ""
+      }
+    ],
+    "year": ""
     }
 ]
